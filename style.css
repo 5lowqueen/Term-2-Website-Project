@@ -1,7 +1,18 @@
- <style> 
+ <style>
+ 
+     h1 {
+		 color:
+		 font-size:
+	 }
+	 
+	 h2 {
+		 color:
+		 font-size:
+	 }
+
 	 body {
-		 background-color:
-		 font-family:
+		 background-color:#f2ff00 ;
+		 font-family: 
 	 }
 	 
 	 .container {
@@ -28,5 +39,35 @@
 		 margin-right: 20px;
 		 margin-bottom: 5px;
 	 }
+	 
+	 ul {
+		 list-style-type: none;
+		 margin: 0;
+		 padding: 0;
+		 overflow: hidden;
+	 }
+	 
+	 li { 
+	     float: left;
+	 }
+	 
+	 li a{
+		 display: block;
+		 color:
+		 text-align: center;
+		 padding: 14px  16px
+		 text-decoration: none;
+	 }
+	 
+	 li a:hover {
+		 background-color:
+	 }
+	 
+	 .active {
+		 background-color:
+	 }
+	 
+	 
+	 
 		 
  
