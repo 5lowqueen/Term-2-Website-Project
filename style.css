@@ -1,24 +1,15 @@
  <style>
  
-     h1 {
-		 color:
-		 font-size:
-	 }
-	 
-	 h2 {
-		 color:
-		 font-size:
-	 }
 
 	 body {
-		 background-color:#f2ff00 ;
-		 font-family: 
+		 background-color: #edba1f;
+		 font-family: ComicSans; 
 	 }
 	 
 	 .container {
 		 width: 700px;
-		 background-color:
-		 border:
+		 background-color: 
+		 border: 10px solid #000;
 		 margin-left: auto;
 		 margin-right: auto;
 		 height: 700px;
@@ -53,19 +44,21 @@
 	 
 	 li a{
 		 display: block;
-		 color:
+		 color: #f5ed00;
 		 text-align: center;
-		 padding: 14px  16px
+		 padding: 14px  16px;
 		 text-decoration: none;
 	 }
 	 
 	 li a:hover {
-		 background-color:
+		 background-color: #e83f25;
 	 }
 	 
 	 .active {
-		 background-color:
+		 background-color: #e36236;
 	 }
+	 
+	 
 	 
 	 
 	 
