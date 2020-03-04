@@ -2,14 +2,14 @@
  
 
 	 body {
-		 background-color: #edba1f;
-		 font-family: ComicSans; 
+		 background-color: #edba1f; 
 	 }
 	 
 	 .container {
 		 width: 700px;
-		 background-color: 
-		 border: 10px solid #000;
+		 background-color: #ffc45e; 
+		 border: 10px solid black;
+		 border-radius: 20px;
 		 margin-left: auto;
 		 margin-right: auto;
 		 height: 700px;
@@ -57,6 +57,7 @@
 	 .active {
 		 background-color: #e36236;
 	 }
+	 
 	 
 	 
 	 
