@@ -1,7 +1,10 @@
-body {
-  background-color:#fac039 ;
-  
-}
+
+
+
+			body {
+			  background-color:#fac039 ;
+			  font-family:'Baloo', cursive;
+			}
 			.container {
 				width: 700px;
 				background-color: #eb584d;
@@ -56,6 +59,9 @@ body {
 			.active {
 			  background-color:#f0a51a;
 			}
+			
+			
+		 
 
 
 

@@ -1,118 +1,70 @@
- <style>
- 
+<style>
 
-	 body {
-		 background-color: #edba1f; 
-	 }
-	 
-	 .container {
-		 width: 700px;
-		 background-color: #ffc45e; 
-		 border: 5px solid #000;
-		 margin-left: auto;
-		 margin-right: auto;
-		 height: 700px;
-	 }
-	 
-	 .content {
-		 width:660px;
-		 padding:20px;
-	 }
-	 
-	 p {
-		 line-height: 1.5em;
-		 font-size: 14pt;
-	 }
-	 
-	 img {
-		 float: left;
-		 margin-right: 20px;
-		 margin-bottom: 5px;
-	 }
-	 
-	 ul {
-		 list-style-type: none;
-		 margin: 0;
-		 padding: 0;
-		 overflow: hidden;
-	 }
-	 
-	 li { 
-	     float: left;
-	 }
-	 
-	 li a{
-		 display: block;
-		 color: #f5ed00;
-		 text-align: center;
-		 padding: 14px  16px;
-		 text-decoration: none;
-	 }
-	 
-	 li a:hover {
-		 background-color: #e83f25;
-	 }
-	 
-	 .active {
-		 background-color: #e36236;
-	 }
-	 
-	 div {
-		 background-color:white;
-		 border:1px solid black;
-		 box-shadow:-20px 20px 40px black;
-		 padding:20px;
-		 position:absolute;
-		 right:40px;
-		 top:40px;
-		 width:400px;
-	 }
-	 
-	 table, th, td {
-		   border: 1px solid black;
-		   border-collapse: collapse;
-		   
-		}
-		
-	 tr: nth-child(even) {
-		   background-color:#DDDDDD;
-	
-		}
-		
-	
-		
-	 tr: nth-child(odd) {
-     background-color:white;
-		   
-		}
-		
-	 th, td {
-	 text-align: center;
-	 padding: 10px;
-		}
-		
-		tr:hover {
-		   background-color:#DDDDDD;
-		}
-		
-		td:hover{
-		   background-color:#ed4242;
-		}
-		
-		th {
-		    background-color: black;
-		    color:white;
-		}
-		
-		table {
-		   width: 400px;
-		}
-		 
-	 
-	 
-	 
-	 
-	 
-	 
-		 
+           
+			  body {
+  background-color: lightblue;
+}
+
+			
+
+			.container {
+				width: 700px;
+				background-color: #eb584d;
+				border: 10px solid black;
+				margin-left: auto;
+				margin-right: auto;
+				height: 700px;
+			}
+
+			.content {
+				width: 660px;
+				padding: 20px;
+			}
+
+			p {	
+				line-height: 1.5em;
+				font-size: 14pt;
+			}
+			
+			img {
+				float: left;
+				margin-right: 20px;
+				margin-bottom: 5px;
+			}
+			
+			
+			ul {
+			  list-style-type: none;
+			  margin: 0;
+			  padding: 0;
+			  overflow: hidden;
+			  background-color: #f0a51a;
+			}
+
+			li {
+			  float: left;
+			}
+
+			li a {
+			  display: block;
+			  color: white;
+			  text-align: center;
+			  padding: 14px 16px;
+			  text-decoration: none;
+			}
+
+			
+			li a:hover {
+			  background-color:#eb5252;
+			}
+			
+			.active {
+			  background-color:#f0a51a;
+			}
+
+
+
  
+	 
+	 
+	
